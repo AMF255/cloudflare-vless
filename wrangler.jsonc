@@ -1,0 +1,6 @@
+{
+  "name": "cloudflare-vless-trojaamf",
+  "main": "./_worker.js",
+  "compatibility_date": "2026-10-05",
+  "no_bundle": true
+}
